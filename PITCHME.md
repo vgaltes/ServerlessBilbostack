@@ -1,6 +1,6 @@
 ---?image=assets/image/pan-xiaozhen.jpg
 
-# A gentle introduction to Serverless
+## A gentle introduction to Serverless
 
 ### Vicenç García Altés
 @vgaltes
@@ -18,25 +18,27 @@ Takes full advantage of the underlying platform
 
 ---
 
-![Serverless meme](assets/image/serverless-meme.png)
+![Serverless meme](assets/image/serverless-meme.png&size=auto 90%)
 
 ---
 
 > It is serverless the same way WiFi is wireless
+<br/>
 [Gojko Adzic](https://gojko.net/2016/08/27/serverless.html)
 
 ---
 
-It is serverless if costs you nothing to run if nobody is using it
+> It is serverless if costs you nothing to run if nobody is using it
+<br/>
 [Paul Johnston](https://medium.com/@PaulDJohnston/a-simple-definition-of-serverless-8492adfb175a)
 
 ---
 
-![Unit of deployment](assets/image/serverless-unitOfDeployment.png)
+![Unit of deployment](assets/image/serverless-unitOfDeployment.png&size=auto 90%)
 
 --- 
 
-![Serverless vs containers](assets/image/serverless-containers.png)
+![Serverless vs containers](assets/image/serverless-containers.png&size=auto 90%)
 
 https://skillsmatter.com/10741-looking-forward-to-adrian-cockcroft-s-keynote-talk
 
@@ -60,6 +62,7 @@ https://skillsmatter.com/10741-looking-forward-to-adrian-cockcroft-s-keynote-tal
 
 > AWS Step Functions makes it easy to coordinate the components of distrubuted applications and microservices using visual worksflows
 
+---
 
 ### Questions?
 

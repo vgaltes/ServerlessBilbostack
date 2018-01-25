@@ -8,7 +8,7 @@ theme : night
 theme-override : assets/css/PITCHME.codemax.css
 highlight : atom-one-light
 logo : assets/image/logo.png
-background : assets/image/chuttersnap.jpg
+background : assets/image/sky.jpg
 transition : none
 published : true
 footnote : "A gentle introduction to Serverless"
