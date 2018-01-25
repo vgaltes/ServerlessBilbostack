@@ -10,15 +10,12 @@
 ## Cloud Native
 
 Takes full advantage of the underlying platform
+
 - Build to scale
 - Fault tolerant
 - Decomposed into services (maybe)
 - Pushes as much work to the platform as possible
 - Automatable
-
----
-
-![Serverless meme](assets/image/serverless-meme.png)
 
 ---
 
@@ -68,7 +65,7 @@ https://skillsmatter.com/10741-looking-forward-to-adrian-cockcroft-s-keynote-tal
 
 ## Step Functions
 
-> AWS Step Functions makes it easy to coordinate the components of distrubuted applications and microservices using visual worksflows
+> AWS Step Functions makes it easy to coordinate the components of distrubuted applications and microservices using visual workflows
 
 ---
 
