@@ -18,7 +18,11 @@ Takes full advantage of the underlying platform
 
 ---
 
-![Serverless meme](assets/image/serverless-meme.png&size=auto 90%)
+![Serverless meme](assets/image/serverless-meme.png)
+
+---
+
+<img src="assets/image/serverless-meme.png" alt="Drawing" style="height: 90%;"/>
 
 ---
 
