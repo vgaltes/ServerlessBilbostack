@@ -1,1 +1,1 @@
-# ServerlessBilbostack
+# A gentle introduction to Serverless
