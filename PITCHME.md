@@ -22,7 +22,7 @@ Takes full advantage of the underlying platform
 
 ---
 
-<img src="assets/image/serverless-meme.png" alt="Drawing" style="height: 90%;"/>
+<img src="assets/image/serverless-meme.png" alt="Drawing" style="height: 70%; width: 70%"/>
 
 ---
 
