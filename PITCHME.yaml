@@ -7,7 +7,6 @@
 theme : night
 theme-override : assets/css/PITCHME.css
 highlight : atom-one-light
-logo : assets/image/logo.png
 background : assets/image/pan-xiaozhen.jpg
 transition : none
 published : true
