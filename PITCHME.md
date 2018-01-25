@@ -5,7 +5,7 @@
 ### Vicenç García Altés
 @vgaltes
 
----?image=assets/image/igor-yemelianov.jpg
+---?image=assets/image/sky.jpg
 
 ## Cloud Native
 
