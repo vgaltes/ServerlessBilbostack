@@ -5,7 +5,7 @@
 ### Vicenç García Altés
 @vgaltes
 
----?image=assets/image/sky.jpg
+---?image=assets/image/pan-xiaozhen.jpg
 
 ## Cloud Native
 
@@ -27,22 +27,26 @@ Takes full advantage of the underlying platform
 ---
 
 > It is serverless the same way WiFi is wireless
+
 <br/>
 [Gojko Adzic](https://gojko.net/2016/08/27/serverless.html)
 
 ---
 
 > It is serverless if costs you nothing to run if nobody is using it
+
 <br/>
 [Paul Johnston](https://medium.com/@PaulDJohnston/a-simple-definition-of-serverless-8492adfb175a)
 
 ---
 
-![Unit of deployment](assets/image/serverless-unitOfDeployment.png&size=auto 90%)
+![Unit of deployment](assets/image/serverless-unitOfDeployment.png)
 
 --- 
 
-![Serverless vs containers](assets/image/serverless-containers.png&size=auto 90%)
+![Serverless vs containers](assets/image/serverless-containers.png)
+
+<br/>
 
 https://skillsmatter.com/10741-looking-forward-to-adrian-cockcroft-s-keynote-talk
 
