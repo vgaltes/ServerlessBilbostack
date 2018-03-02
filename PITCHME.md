@@ -68,6 +68,11 @@ https://skillsmatter.com/10741-looking-forward-to-adrian-cockcroft-s-keynote-tal
 > AWS Step Functions makes it easy to coordinate the components of distrubuted applications and microservices using visual workflows
 
 ---
+Vendor lock-in </br>
+vs</br>
+Migration costs
+
+---
 
 ### Questions?
 
